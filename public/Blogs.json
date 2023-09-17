@@ -1,0 +1,53 @@
+[
+          {
+              "article_id": 12345,
+              "cover_image": "[Link to Cover Image]",
+              "title": "Exploring the Mysteries of Quantum Physics",
+              "author": "Emily Johnson",
+              "author_img": "[Link to Author Image]",
+              "posted_date": "2023-09-10",
+              "reading_time": 12,
+              "hashtags": ["#QuantumPhysics", "#Science", "#Exploration"]
+          },
+          {
+              "article_id": 67890,
+              "cover_image": "[Link to Cover Image]",
+              "title": "The Art of Mindfulness: Finding Peace in a Hectic World",
+              "author": "David Smith",
+              "author_img": "[Link to Author Image]",
+              "posted_date": "2023-08-25",
+              "reading_time": 8,
+              "hashtags": ["#Mindfulness", "#Wellness", "#InnerPeace"]
+          },
+          {
+              "article_id": 54321,
+              "cover_image": "[Link to Cover Image]",
+              "title": "Traveling on a Budget: 10 Tips for Thrifty Adventurers",
+              "author": "Sarah Anderson",
+              "author_img": "[Link to Author Image]",
+              "posted_date": "2023-07-14",
+              "reading_time": 6,
+              "hashtags": ["#TravelTips", "#BudgetTravel", "#Adventure"]
+          },
+          {
+              "article_id": 98765,
+              "cover_image": "[Link to Cover Image]",
+              "title": "The Evolution of Artificial Intelligence: Past, Present, and Future",
+              "author": "Michael Turner",
+              "author_img": "[Link to Author Image]",
+              "posted_date": "2023-06-02",
+              "reading_time": 15,
+              "hashtags": ["#AI", "#Technology", "#Evolution"]
+          },
+          {
+              "article_id": 24680,
+              "cover_image": "[Link to Cover Image]",
+              "title": "Cooking Delights: A Culinary Journey Through Italian Cuisine",
+              "author": "Maria Rodriguez",
+              "author_img": "[Link to Author Image]",
+              "posted_date": "2023-04-18",
+              "reading_time": 10,
+              "hashtags": ["#ItalianCuisine", "#Foodie", "#CookingJoys"]
+          }
+      ]
+      
